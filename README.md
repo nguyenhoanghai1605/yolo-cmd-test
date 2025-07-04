@@ -1,5 +1,5 @@
-# yolo-cmd-test
+# yolo-cmd-test!
 
-This is a YOLO test update from command line.
+YOLO test update!!
 
-echo "Another YOLO test update from CMD." >> README.md
+echo "Another YOLO test update from CMD."
