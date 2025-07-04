@@ -1,5 +1,5 @@
 # yolo-cmd-test
 
-YOLO test update!
+YOLO test update!!!
 
-echo "Another YOLO test update from CMD." >> README.md
+echo "Another YOLO test update from CMD."
